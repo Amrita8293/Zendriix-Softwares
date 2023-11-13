@@ -1,0 +1,7 @@
+This is the third file with name 3.txt on feature2 branch.
+
+In this workflow we have a master, a develop and then feature branches.
+A feature branch in never merged directly with master
+Rather than Master, the feature branch is merged with develop
+Once there are enough features on the Develop branch,
+It is merged with the Master with a corresponding version number.

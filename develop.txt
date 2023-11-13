@@ -1,0 +1,7 @@
+This is the develop.txt file on Develop.
+
+In this workflow I have a master, a develop and then feature branches.
+A feature branch is never merged directly with master
+Rather than master, the feature branch is merged with develop 
+Once there are enough features on the develop branch,
+It is merged with the master with a corresponding version number. 
